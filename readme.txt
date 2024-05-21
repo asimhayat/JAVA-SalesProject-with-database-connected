@@ -1,3 +1,11 @@
+CMD
+
+cd desktop
+git clone https://github.com/asimhayat/JAVA-SalesProject-with-database-connected.git
+
+
+
+
 AFTER DOWNLOADING THESE THREE FILES
 
 1. Cafe Management Practice
